@@ -1,3 +1,3 @@
 # Beripotol Ideal Public Library
 
-## Website : https://rritagency.github.io/bagg/
+## Website : https://Shamim2601.github.io/bagg/
